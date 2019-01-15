@@ -1,0 +1,15 @@
+C:\Users\mateusz\source\repos\superCoreApp\obj\Debug\netcoreapp2.1\superCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\mateusz\source\repos\superCoreApp\obj\Debug\netcoreapp2.1\superCoreApp.AssemblyInfoInputs.cache
+C:\Users\mateusz\source\repos\superCoreApp\obj\Debug\netcoreapp2.1\superCoreApp.AssemblyInfo.cs
+C:\Users\mateusz\source\repos\superCoreApp\bin\Debug\netcoreapp2.1\superCoreApp.deps.json
+C:\Users\mateusz\source\repos\superCoreApp\bin\Debug\netcoreapp2.1\superCoreApp.runtimeconfig.json
+C:\Users\mateusz\source\repos\superCoreApp\bin\Debug\netcoreapp2.1\superCoreApp.runtimeconfig.dev.json
+C:\Users\mateusz\source\repos\superCoreApp\bin\Debug\netcoreapp2.1\superCoreApp.dll
+C:\Users\mateusz\source\repos\superCoreApp\bin\Debug\netcoreapp2.1\superCoreApp.pdb
+C:\Users\mateusz\source\repos\superCoreApp\obj\Debug\netcoreapp2.1\superCoreApp.csprojAssemblyReference.cache
+C:\Users\mateusz\source\repos\superCoreApp\obj\Debug\netcoreapp2.1\superCoreApp.RazorAssemblyInfo.cache
+C:\Users\mateusz\source\repos\superCoreApp\obj\Debug\netcoreapp2.1\superCoreApp.RazorAssemblyInfo.cs
+C:\Users\mateusz\source\repos\superCoreApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\mateusz\source\repos\superCoreApp\obj\Debug\netcoreapp2.1\superCoreApp.RazorTargetAssemblyInfo.cache
+C:\Users\mateusz\source\repos\superCoreApp\obj\Debug\netcoreapp2.1\superCoreApp.dll
+C:\Users\mateusz\source\repos\superCoreApp\obj\Debug\netcoreapp2.1\superCoreApp.pdb
